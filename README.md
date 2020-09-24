@@ -5,3 +5,4 @@ This project was started in order to help Steve, who is a professional financial
 
 ## Anaylsis and Results
 In order to accomplish our goal of analyzing the 12 stocks data was needed. So, data was obtained for the following tickers: AY, CSIQ, DQ, ENPH, FSLR, HASI, JKS, RUN, SEDG, SPWR, TERP, VSLR. For each trading day in the years 2017 and 2018 the open, high, close, and volume was complied. Here is an example of what the data looked like:
+![Sample Data](https://user-images.githubusercontent.com/71234992/94104841-dbcd5e80-fdec-11ea-83d1-671ee034845a.PNG)
