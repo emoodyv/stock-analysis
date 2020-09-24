@@ -15,3 +15,8 @@ From this raw data a yearly analysis on the stocks’ annual return and annual v
 Now that all the data was processed and the program produced results, the macro was then tasked to clean up and format the results. You can see the results for 2017 and 2018 below. As you can see in 2017 the best performing stock was ENPH and the worst was TERP. Overall, 2017 was a particularly good year for green stocks. In 2018 the best performing stock was ENPH again and the worst was DQ. Unlike 2017, 2018 was disastrous for green stocks.
 
 ![2017](https://user-images.githubusercontent.com/71234992/94107455-5ba9f780-fdf2-11ea-9b6f-2d8ac2f945c5.PNG) ![2018](https://user-images.githubusercontent.com/71234992/94107456-5ba9f780-fdf2-11ea-81a5-fc8e2b9799bb.PNG)
+
+## Refactoring Summary
+### Refactoring in General
+
+### Refactoring the VBA code
