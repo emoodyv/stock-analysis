@@ -23,10 +23,10 @@ One of the most important steps that was taken in this process was to refactor t
 ### Refactoring the VBA code
 When refactoring the code in this project several things were changed. Those changes included putting the formatting in the same macro and assigning the total volume, starting price, and ending price to their own arrays. Both these big changes, among others, decreased the time of execution and made the code more readable. Below you can see the pre-refactored code execution times:
 
-![2017](https://user-images.githubusercontent.com/71234992/94109120-62863980-fdf5-11ea-91fc-4c1d4d929022.PNG) ![2018](https://user-images.githubusercontent.com/71234992/94109122-63b76680-fdf5-11ea-9a30-4d0d3f6cea04.PNG)
+![2017 old](https://user-images.githubusercontent.com/71234992/94109121-631ed000-fdf5-11ea-95ef-42e663686075.PNG) ![2018 old](https://user-images.githubusercontent.com/71234992/94109123-63b76680-fdf5-11ea-969a-6cf9822bfe92.PNG)
 
 This is a stark contrast with the following results which are from the refactored code:
 
-![2017 old](https://user-images.githubusercontent.com/71234992/94109121-631ed000-fdf5-11ea-95ef-42e663686075.PNG) ![2018 old](https://user-images.githubusercontent.com/71234992/94109123-63b76680-fdf5-11ea-969a-6cf9822bfe92.PNG)
+![2017](https://user-images.githubusercontent.com/71234992/94109120-62863980-fdf5-11ea-91fc-4c1d4d929022.PNG) ![2018](https://user-images.githubusercontent.com/71234992/94109122-63b76680-fdf5-11ea-9a30-4d0d3f6cea04.PNG)
 
 Overall refactoring the code turned out to have a greatly beneficial effect. If Steve ever desires to use this project to analyze more than 12 stocks or more data the refactored code could possible save him hours of computation.
