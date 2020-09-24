@@ -18,5 +18,6 @@ Now that all the data was processed and the program produced results, the macro 
 
 ## Refactoring Summary
 ### Refactoring in General
+One of the most important steps that was taken in this process was to refactor the code. What that means is to go back through the original code and manipulate it in order to optimize performance, readability, and runtime. In general, and not just in VBA, refactoring code can be a positive process because as aforementioned it can result in optimization. However, one disadvantage of refactoring is that is consumes a copious amount of time, especially in large coding projects.
 
 ### Refactoring the VBA code
